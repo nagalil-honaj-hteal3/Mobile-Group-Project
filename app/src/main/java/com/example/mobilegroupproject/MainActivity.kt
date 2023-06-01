@@ -13,6 +13,15 @@ import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
 import com.example.mobilegroupproject.databinding.ActivityMainBinding
 
+//import androidx.core.content.ContextCompat
+//import androidx.core.view.ViewCompat
+//// and other relevant imports
+//
+//import androidx.lifecycle.ViewModel
+//import androidx.lifecycle.LiveData
+//import androidx.lifecycle.MutableLiveData
+
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
